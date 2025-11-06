@@ -123,21 +123,6 @@ return {
         '<cmd>LazyGit<cr>',
         desc = 'Open LazyGit',
       },
-      {
-        '<leader>gf',
-        '<cmd>LazyGitCurrentFile<cr>',
-        desc = 'LazyGit Current File',
-      },
-      {
-        '<leader>gc',
-        '<cmd>LazyGitConfig<cr>',
-        desc = 'LazyGit Config',
-      },
-      {
-        '<leader>gF',
-        '<cmd>LazyGitFilter<cr>',
-        desc = 'LazyGit Filter',
-      },
     },
   },
 }
